@@ -1,16 +1,13 @@
 # mini-BESTest_blind_noblind
 
-## Code and Dataset
+## Dataset
 [![DOI](https://zenodo.org/badge/853126161.svg)](https://zenodo.org/doi/10.5281/zenodo.13704672)
 
 ## Database Attribute Information
-There are 2 main folders:
-- Machine Learning.
-- Deep Learning.
-
+There is 1 main folder
+- Test 3: It corresponds to the test 3 "standing on one leg" in miniBESTest.
 In each file it will find the tri-axial acceleration x, y, z corresponding to 12 IMU sensors: pelvis, left and right feet, left and right shank, left and right hand, left and right arm, torso, C5 and head.
-
-The label information corresponds to the balance evaluation of mini-BESTest
+The label information corresponds to the balance evaluation of mini-BESTest.
 - 0 for bad balance.
 - 1 for mild balance.
 - 2 for good balance.
