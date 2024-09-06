@@ -13,4 +13,4 @@ The label information corresponds to the balance evaluation of mini-BESTest.
 - 2 for good balance.
 
 ## Citation
-Jaén-Vargas, M., Pagán, J., Serrrano Olmedo, J. J., Li, S., & Kazemi, N. (2024). mjaenvargas/mini-BESTest_blind_noblind: v.1.0.0 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13712755
+Jaén-Vargas, M., Pagán, J., Li, S., Kazemi, N., & Serrano Olmedo, J. J. (2024). mjaenvargas/mini-BESTest_blind_noblind: v.1.0.0 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13712755
