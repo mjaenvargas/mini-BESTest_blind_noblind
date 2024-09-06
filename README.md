@@ -5,8 +5,8 @@
 
 ## Database Attribute Information
 There are 2 main folders:
--Machine Learning.
--Deep Learning.
+- Machine Learning.
+- Deep Learning.
 
 In each file it will find the tri-axial acceleration x, y, z corresponding to 12 IMU sensors: pelvis, left and right feet, left and right shank, left and right hand, left and right arm, torso, C5 and head.
 
