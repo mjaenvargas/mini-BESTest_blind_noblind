@@ -1,7 +1,7 @@
 # mini-BESTest_blind_noblind
 
 ## Dataset
-[![DOI](https://zenodo.org/badge/853126161.svg)](https://zenodo.org/doi/10.5281/zenodo.13704672)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13712755.svg)](https://doi.org/10.5281/zenodo.13712755)
 
 ## Database Attribute Information
 There is 1 main folder
@@ -13,4 +13,4 @@ The label information corresponds to the balance evaluation of mini-BESTest.
 - 2 for good balance.
 
 ## Citation
-Milagros Jaén-Vargas. (2024). mjaenvargas/mini-BESTest_blind_noblind: v.1.0.0 (v.1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13704673
+Jaén-Vargas, M., Pagán, J., Serrrano Olmedo, J. J., Li, S., & Kazemi, N. (2024). mjaenvargas/mini-BESTest_blind_noblind: v.1.0.0 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13712755
