@@ -27,9 +27,9 @@ If you are debugging in VSCode, you can set the Python interpreter to the virtua
 
 ## Data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13712755.svg)](https://doi.org/10.5281/zenodo.13712755)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13842814.svg)](https://doi.org/10.5281/zenodo.13842814)
 
-You can test the code with the data provided in Zenodo. The data is available at the following link: [https://zenodo.org/doi/10.5281/zenodo.13704672](https://zenodo.org/doi/10.5281/zenodo.13704672). Create a folder called `data` with a subfolder called `input`. Download the data and extract it to the `data/input/` folder. You can change the path to the data in the `env.py` module.
+You can test the code with the data provided in Zenodo. The data is available at the following link: [https://zenodo.org/doi/10.5281/zenodo.13842814](https://zenodo.org/doi/10.5281/zenodo.13842814). Create a folder called `data` with a subfolder called `input`. Download the data and extract it to the `data/input/` folder. You can change the path to the data in the `env.py` module.
 
 The dataset consists of the following files:
 
